@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/uohzey-ai/codex-token-monitor.git"
+    "url": "https://github.com/uohzey0519/codex-token-monitor.git"
   },
   "engines": {
     "node": ">=20"

@@ -39,7 +39,7 @@
 ## 一键安装
 
 ```bash
-git clone https://github.com/uohzey-ai/codex-token-monitor.git
+git clone https://github.com/uohzey0519/codex-token-monitor.git
 cd codex-token-monitor
 npm run install:macos
 ```
