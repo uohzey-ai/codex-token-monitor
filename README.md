@@ -17,7 +17,7 @@
 
 ### macOS Menu Bar
 
-![Codex Token Monitor Menu Bar](docs/images/menu-bar.png)
+![Codex Token Monitor Menu Bar](docs/images/menu-bar-compact.png)
 
 ## 功能
 
