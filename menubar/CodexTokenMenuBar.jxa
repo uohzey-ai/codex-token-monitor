@@ -234,7 +234,7 @@ function updateStatus() {
     var month = rangeSummary(root, "currentMonth", "Month");
     var rate = root.latestRate || {};
     var primaryUsed = number(rate.maxPrimaryUsed);
-    var title = barDollars(today.cost) + " / " + compact(today.tokens);
+    var title = barDollars(today.cost) + " / " + compact(today.tokens) + " / " + trim(primaryUsed) + "%";
     setStatusTitle(title, true, primaryUsed);
     statusItem.button.toolTip =
       pricingModelLabel + " today: " + compact(today.tokens) + " tokens, " +

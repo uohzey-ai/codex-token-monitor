@@ -60,7 +60,7 @@ http://127.0.0.1:48731
 菜单栏默认显示：
 
 ```text
-$今日估算费用 / 今日 total tokens
+$今日估算费用 / 今日 total tokens / 5h primary 使用率
 ```
 
 默认按 `gpt-5.5` 估算费用。颜色使用 5h primary 额度窗口：
