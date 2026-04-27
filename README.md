@@ -13,7 +13,9 @@
 
 ### Dashboard
 
-![Codex Token Monitor Dashboard](docs/images/dashboard.png)
+![Codex Token Monitor Dashboard Top](docs/images/dashboard-top.png)
+
+![Codex Token Monitor Dashboard Bottom](docs/images/dashboard-bottom.png)
 
 ### macOS Menu Bar
 
